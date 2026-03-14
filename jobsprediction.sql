@@ -1,0 +1,1 @@
+SELECT * FROM fake_job.jobs_with_predictions;

@@ -22,11 +22,8 @@ Dataset → SQL Database → Python ML Model → Predictions → Power BI Dashbo
 
 - Python
 - Pandas
-- Scikit-learn
-- TF-IDF
 - Logistic Regression
 - MySQL
-- SQLAlchemy
 - Power BI
 
 ---
